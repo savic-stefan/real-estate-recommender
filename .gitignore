@@ -1,0 +1,26 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Locally bundled packages are for the current Windows/Python environment.
+.python_packages/
+
+# Large source datasets are provided separately.
+/data1.csv
+/data2.csv
+/data3.csv
+/data/raw/
+/data/processed/
+
+# Generated model files and local run metadata.
+/artifacts/models/
+/artifacts/logs/
+/artifacts/metadata/
+
+# Local editor and operating-system files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

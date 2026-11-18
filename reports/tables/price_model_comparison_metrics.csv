@@ -1,0 +1,4 @@
+﻿model_name,test_mae,test_rmse,test_mse,test_r2,cv_mae_mean,cv_mae_std,cv_rmse_mean,cv_rmse_std,cv_mse_mean,cv_mse_std,cv_r2_mean,cv_r2_std,artifact_path
+Random Forest Regressor,1181191.9959,3863765.0396,14928680281566.682,0.816416,1317866.0622,44880.1213,4341399.4205,710120.701,19352020338736.992,6192761038239.218,0.767902,0.036518,C:\Users\Stefan\Desktop\diplom\artifacts\models\random_forest_regressor_price_model.joblib
+Gradient Boosting Regressor,1571872.1559,4468588.8907,19968286674246.62,0.754442,1609037.8915,42924.8935,4609082.9203,451638.6063,21447622796945.82,4209922904104.409,0.736127,0.021393,C:\Users\Stefan\Desktop\diplom\artifacts\models\gradient_boosting_regressor_price_model.joblib
+Linear Regression,3270417.381,7261903.0321,52735235647522.86,0.351494,3243629.6563,54181.3317,7239821.1312,710698.0201,52920101688124.25,10234786349760.346,0.35111,0.011477,C:\Users\Stefan\Desktop\diplom\artifacts\models\linear_regression_price_model.joblib

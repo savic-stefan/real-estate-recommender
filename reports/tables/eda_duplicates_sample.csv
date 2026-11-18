@@ -1,0 +1,2 @@
+﻿analysis_scope,subset_columns,duplicate_rows_in_sample,duplicate_ratio_in_sample
+analysis_sample,"Price, Area, Number of rooms, Floor, Number of floors, Region, Metro station, Source dataset",26398,0.105592

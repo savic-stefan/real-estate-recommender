@@ -1,0 +1,4 @@
+﻿model_name,estimator_class,train_rows,test_rows,feature_count,training_seconds,prediction_mean,prediction_std,prediction_min,prediction_max,reload_verification_max_abs_diff,artifact_path
+Linear Regression,LinearRegression,240000,60000,19,0.1167,5700111.6194,5392364.4217,-12092058.4249,99859982.9154,0.0,C:\Users\Stefan\Desktop\diplom\artifacts\models\linear_regression_price_model.joblib
+Random Forest Regressor,RandomForestRegressor,240000,60000,19,172.9191,5697972.6192,7684854.9014,767779.8,196317475.2936,0.0,C:\Users\Stefan\Desktop\diplom\artifacts\models\random_forest_regressor_price_model.joblib
+Gradient Boosting Regressor,GradientBoostingRegressor,240000,60000,19,224.4708,5695248.022,7636904.1533,-1045126.5471,230415850.9033,0.0,C:\Users\Stefan\Desktop\diplom\artifacts\models\gradient_boosting_regressor_price_model.joblib

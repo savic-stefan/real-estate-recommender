@@ -1,0 +1,10 @@
+﻿component,value
+best_price_model,Random Forest Regressor
+best_recommendation_method,content_weighted
+decision_support_candidates,4608
+decision_support_shortlist_size,15
+top_listing_id,11424
+top_listing_price,5620000.0
+top_listing_predicted_market_price,9648711.381572478
+top_listing_relative_discount,0.4175388010119862
+top_listing_decision_score,0.7567887023576976

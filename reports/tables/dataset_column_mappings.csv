@@ -1,0 +1,41 @@
+﻿dataset_name,source_path,raw_column,normalized_column,mapped_column,is_canonical_match
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Price,price,Price,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Apartment type,apartment_type,Apartment type,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Metro station,metro_station,Metro station,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Minutes to metro,minutes_to_metro,Minutes to metro,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Region,region,Region,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Number of rooms,number_of_rooms,Number of rooms,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Area,area,Area,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Living area,living_area,Living area,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Kitchen area,kitchen_area,Kitchen area,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Floor,floor,Floor,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Number of floors,number_of_floors,Number of floors,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,Renovation,renovation,Renovation,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,date,date,Date,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,price,price,Price,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,level,level,Floor,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,levels,levels,Number of floors,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,rooms,rooms,Number of rooms,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,area,area,Area,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,kitchen_area,kitchen_area,Kitchen area,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,geo_lat,geo_lat,Geo latitude,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,geo_lon,geo_lon,Geo longitude,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,building_type,building_type,Building type,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,object_type,object_type,Object type,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,postal_code,postal_code,Postal code,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,street_id,street_id,Street id,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,id_region,id_region,Region id,True
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,house_id,house_id,House id,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,price,price,Price,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,date,date,Date,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,time,time,Time,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,geo_lat,geo_lat,Geo latitude,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,geo_lon,geo_lon,Geo longitude,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,region,region,Region,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,building_type,building_type,Building type,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,level,level,Floor,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,levels,levels,Number of floors,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,rooms,rooms,Number of rooms,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,area,area,Area,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,kitchen_area,kitchen_area,Kitchen area,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,object_type,object_type,Object type,True

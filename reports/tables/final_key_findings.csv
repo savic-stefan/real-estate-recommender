@@ -1,0 +1,9 @@
+﻿finding_id,theme,statement,evidence
+F1,Price modeling,Random Forest Regressor was the best market valuation model on holdout data.,test_rmse=3863765.0396; test_r2=0.816416
+F2,Price modeling,Nonlinear ensembles substantially outperformed the linear baseline.,RMSE improvement over Linear Regression=46.7940%
+F3,Feature engineering,Engineered domain features were informative but did not improve direct price regression.,enhanced_delta_rmse=64523.3477; enhanced_delta_r2=-0.006454
+F4,Recommendation,The weighted content-based recommender achieved the best offline utility.,method=content_weighted; dcg_utility=4.091525
+F5,Recommendation,"Hybrid and knowledge-based methods perfectly satisfied hard constraints, but did not surpass content_weighted on utility.",hybrid_constraint_rate=1.0000; knowledge_constraint_rate=1.0000
+F6,Hybrid integration,Collaborative signal remained the weakest component inside the hybrid recommendation stage.,hybrid_collaborative_component_mean=0.013665
+F7,Decision support,The integrated shortlist contained market-underpriced objects relative to the learned valuation model.,top_listing_discount=0.417539; top_listing_score=0.756789
+F8,Decision support,The final DSS pipeline reduced a large candidate pool to a compact shortlist suitable for human review.,candidate_pool=4608; shortlist=15

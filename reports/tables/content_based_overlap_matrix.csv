@@ -1,0 +1,5 @@
+﻿method,cosine_similarity,euclidean_similarity,manhattan_similarity,weighted_similarity
+cosine_similarity,1.0,0.2,0.1538,0.1538
+euclidean_similarity,0.2,1.0,0.7647,0.2
+manhattan_similarity,0.1538,0.7647,1.0,0.2
+weighted_similarity,0.1538,0.2,0.2,1.0

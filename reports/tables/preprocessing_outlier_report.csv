@@ -1,0 +1,9 @@
+﻿rule,affected_rows
+invalid_kitchen,3441818
+invalid_rooms,1143943
+invalid_price,32970
+invalid_area,20506
+floor_exceeds_building,3731
+invalid_floors,1905
+invalid_floor,1363
+invalid_living_area,230

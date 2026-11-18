@@ -1,0 +1,9 @@
+﻿stage,remaining_rows,description
+initial_pool,20000,Initial sampled pool
+budget_with_slack,18562,Price <= budget * 1.05
+area_band,10195,"Area in [33.0, 57.0]"
+rooms_band,10184,"Rooms in [1.0, 3.0]"
+minimum_price_per_m2,9321,price_per_m2 >= 35000.0
+minimum_investment,4660,investment_score >= 0.55
+minimum_liquidity,4609,liquidity_score >= 0.65
+minimum_transport,4608,transport_score >= 0.8

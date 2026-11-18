@@ -1,0 +1,5 @@
+﻿limitation_id,area,issue,evidence
+L1,Data quality,A large share of shortlist objects still has missing categorical semantics.,unknown_metro=13/15; unknown_renovation=13/15
+L2,Collaborative filtering,Collaborative recommendation quality is constrained by synthetic and sparse feedback.,item_based_dcg=2.955101; user_based_dcg=2.929362
+L3,Knowledge-based rules,Exact soft preference rules were too restrictive to apply safely in the candidate pool.,optional_rules_applied=0
+L4,Feature engineering,Rule-based engineered features did not improve direct market price prediction in the current setup.,delta_rmse_vs_baseline=64523.3477

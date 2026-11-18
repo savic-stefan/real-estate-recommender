@@ -1,0 +1,4 @@
+﻿dataset_name,source_path,delimiter,encoding,file_size_mb,raw_column_count,matched_canonical_count,coverage_ratio,missing_required_columns,missing_canonical_columns,extra_columns,is_valid_for_merge
+data2,C:\Users\Stefan\Desktop\diplom\data2.csv,;,utf-8-sig,849.783,15,15,0.6818,,"Apartment type, Metro station, Minutes to metro, Region, Living area, Renovation, Time",,True
+data3,C:\Users\Stefan\Desktop\diplom\data3.csv,",",utf-8-sig,389.271,13,13,0.5909,,"Apartment type, Metro station, Minutes to metro, Region id, Living area, Renovation, Postal code, Street id, House id",,True
+data1,C:\Users\Stefan\Desktop\diplom\data1.csv,",",utf-8-sig,2.111,12,12,0.5455,,"Region id, Building type, Object type, Geo latitude, Geo longitude, Postal code, Street id, House id, Date, Time",,True

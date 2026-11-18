@@ -1,0 +1,10 @@
+﻿column,unique_values_in_clean_data,encoded_column,encoded_min,encoded_max,top_category
+Apartment type,3,Apartment type_encoded,0.000510942852466561,0.998701114018961,Unknown
+Metro station,545,Metro station_encoded,1.2776765503039784e-07,0.998701114018961,Unknown
+Region,133,Region_encoded,3.8330296509119353e-07,0.6696810037733621,Unknown
+Renovation,5,Renovation_encoded,0.0001659063000569716,0.998701114018961,Unknown
+Building type,7,Building type_encoded,0.0013752910387472023,0.46052937716973436,0.0
+Object type,4,Object type_encoded,0.09307880057347234,0.5037549636136883,0.0
+Date,1319,Date_encoded,6.388382751519892e-08,0.007021343714540483,2021-06-30
+Time,86401,Time_encoded,1.2776765503039784e-07,0.6709798897544011,Unknown
+Source dataset,3,Source dataset_encoded,0.0012988859810390244,0.6696810037733621,data2

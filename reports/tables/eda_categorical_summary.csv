@@ -1,0 +1,8 @@
+﻿feature,unique_values,top_value,top_value_frequency,missing_count,missing_ratio
+Metro station,150,Красногвардейская,47,249650,0.9986
+Region,82,9654,15606,168428,0.673712
+Building type,7,0.0,116275,350,0.0014
+Object type,4,0.0,124173,350,0.0014
+Renovation,4,Cosmetic,198,249650,0.9986
+Source dataset,3,data2,168428,0,0.0
+Apartment type,2,Secondary,201,249650,0.9986

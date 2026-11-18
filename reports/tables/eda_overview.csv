@@ -1,0 +1,18 @@
+﻿column,dtype,non_null_count,missing_count,missing_ratio,sample_unique_count
+Living area,float64,22676,16835156,0.998655,227
+Metro station,str,22676,16835156,0.998655,150
+Minutes to metro,float64,22676,16835156,0.998655,28
+Renovation,str,22676,16835156,0.998655,4
+Apartment type,str,22676,16835156,0.998655,2
+Region,str,5499682,11358150,0.673761,82
+Geo longitude,float64,16835156,22676,0.001345,118048
+Geo latitude,float64,16835156,22676,0.001345,117901
+Building type,float64,16835156,22676,0.001345,7
+Object type,float64,16835156,22676,0.001345,4
+Price,float64,16857832,0,0.0,42172
+Area,float64,16857832,0,0.0,8028
+Kitchen area,float64,16857832,0,0.0,2163
+Number of floors,int64,16857832,0,0.0,53
+Floor,float64,16857832,0,0.0,46
+Number of rooms,float64,16857832,0,0.0,13
+Source dataset,str,16857832,0,0.0,3

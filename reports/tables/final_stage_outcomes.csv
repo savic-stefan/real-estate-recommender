@@ -1,0 +1,8 @@
+﻿stage,headline,key_result
+Stage 4 - Preprocessing,Data quality pipeline,15653414 clean rows; 300000 modeling rows
+Stage 6 - Price Evaluation,Best market valuation model,Random Forest Regressor with RMSE 3863765.0396 and R2 0.816416
+Stage 7 - Feature Engineering,Engineered feature impact,19 baseline features vs 26 enhanced features; RMSE delta 64523.3477
+Stage 12 - Recommendation Evaluation,Best recommendation method,content_weighted with DCG 4.091525
+Stage 11 - Hybrid Recommendation,Hybrid integration result,3375 gated candidates; collaborative signal remained non-zero but small
+Stage 13 - Decision Support,Integrated shortlist,4608 feasible candidates; 15 final shortlist objects
+Stage 14 - Final Demo,Defense-ready packaging,Top listing 11424 collected into final demo payload

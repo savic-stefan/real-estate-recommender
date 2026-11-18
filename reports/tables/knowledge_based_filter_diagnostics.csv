@@ -1,0 +1,13 @@
+﻿stage,remaining_rows,applied,description
+initial_pool,120000,True,Initial sampled candidate pool
+max_budget,110478,True,Price <= 12000000.0
+target_area_band,60851,True,"Area in [33.0, 57.0]"
+target_rooms_band,60807,True,"Rooms in [1.0, 3.0]"
+minimum_price_per_m2,55523,True,price_per_m2 >= 35000.0
+minimum_investment_score,27182,True,investment_score >= 0.55
+minimum_liquidity_score,26908,True,liquidity_score >= 0.65
+minimum_transport_score,26900,True,transport_score >= 0.8
+preferred_metro_station,3,False,Metro station == Котельники
+preferred_renovation,2,False,Renovation == European-style renovation
+known_metro_value,24,False,Metro station is known
+known_renovation_value,24,False,Renovation is known

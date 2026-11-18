@@ -1,0 +1,5 @@
+﻿method,hybrid_recommendation,content_based_reference,collaborative_reference,knowledge_based_reference
+hybrid_recommendation,1.0,0.1111,0.0,0.3043
+content_based_reference,0.1111,1.0,0.0,0.3636
+collaborative_reference,0.0,0.0,1.0,0.0
+knowledge_based_reference,0.3043,0.3636,0.0,1.0
